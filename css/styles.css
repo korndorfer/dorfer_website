@@ -1,0 +1,19 @@
+
+body {
+  padding-top: 50px;
+}
+
+header .navbar-brand {
+  margin:14px auto;
+  float:none;
+  padding:0 15px;
+  display:inline-block;
+}
+ 
+header .top-navbar-header .navbar-brand {
+  margin:14px auto;
+  float:none;
+  padding:5px 0;
+  display:inline-block;
+}
+
